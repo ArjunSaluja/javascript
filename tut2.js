@@ -1,3 +1,5 @@
+//variable
+// we use "use strict" if we use that then we will able to strict them as per let, var,char.
 const accountId=12345
 let accountEmail= "arjun@12345"
 var accountPassword="12345"

@@ -1,2 +1,2 @@
-
-   // console.log(num);
+let booleanIsLoggedIn =Boolean(isLoggedIn)
+console.log(booleanIsLoggedIn);
