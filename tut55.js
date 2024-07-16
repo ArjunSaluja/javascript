@@ -8,7 +8,7 @@ function fun(){
     return this;
     
 }
-console.log(  new fun());
+console.log(  new fun());   
 
 // var obj = new fun();
 // log(obj.fname)
