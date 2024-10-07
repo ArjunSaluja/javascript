@@ -7,13 +7,11 @@ class Animal{
     }
 }
 
-class dog{
+class dog extends Animal{
     constructor(name){
-        this.name=name;
+        super(name);
     }
-    speak(){
-        console.log(`${this.name}make a noise`);
-    }
+   
 }
 let d =new dog('rufus');
 d.speak();
